@@ -2,7 +2,7 @@
 
 **Fullstack Developer · Foco em Backend** | Fullstack Developer · Backend-Focused
 
-Bacharel em Ciência da Computação pela **PUC-Rio** (conclusão Jul/2026) e membro do time fundador da **NewMode E-Sports**, onde trabalho com **Java 25 / Spring Boot 4** e **Vue 3** em arquitetura hexagonal.
+Bacharel em Ciência da Computação pela **PUC-Rio** (conclusão Jul/2026) e membro da equipe de tech da **NewMode E-Sports**, onde trabalho com **Java 25 / Spring Boot 4** e **Vue 3** em arquitetura hexagonal.
 
 Construo **APIs REST seguras e testáveis** (Spring Security + JWT/RBAC, Flyway, PostgreSQL), frontends em Vue/React e dashboards analíticos em SQL.
 
